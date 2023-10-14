@@ -1,0 +1,1 @@
+This is the data from an external file called data.txt
